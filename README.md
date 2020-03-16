@@ -1,2 +1,2 @@
 # unit-tracker
-This program will focus on helping students track their subjects. 
+Hello all! I will be helping you track your units :)
